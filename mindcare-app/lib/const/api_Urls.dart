@@ -1,0 +1,21 @@
+// ignore_for_file: constant_identifier_names
+// const String domain_url='http://192.168.1.6:8000';
+const String domain_url='https://mindcare-apis.onrender.com';
+const String login_api='$domain_url/auth/user/signIn/';
+const String signup_api='$domain_url/auth/user/signUp/';
+const String verify_otp_api='$domain_url/auth/verifyOTP/';
+const String reset_password_api='$domain_url/auth/resetPassword/';
+const String forgot_password_api='$domain_url/auth/forgotPassword/';
+const String chat_api='$domain_url/api/chats/';
+const String user_profile_api='$domain_url/auth/user/profile/';
+const String mentor_profile_api='$domain_url/auth/mentor/profile/';
+const String appointment_api='$domain_url/api/appointments/';
+const String contact_us_api='$domain_url/api/contactus/';
+const String tasks_api='$domain_url/api/tasks/';
+const String analysis_api='$domain_url/api/analysis/';
+const String quiz_api='$domain_url/api/quiz/';
+const String scenario_api='$domain_url/api/scenarios/';
+const String notification_api='$domain_url/api/notifications/';
+const String wearable_api='$domain_url/api/weareables/';
+const String gemini_api_key='AIzaSyCYkl5WZd6jvWRRIN37YR2I2DC7kRENpUE';
+const int user_profile_id=1;
