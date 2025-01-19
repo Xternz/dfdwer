@@ -48,7 +48,7 @@ This repository contains three main folders:
 1. Clone the repository:
    ```
    git clone https://github.com/Xternz/dfdwer.git
-   cd mindcare
+   cd dfdwer
    ```
 
 2. Set up the backend:
