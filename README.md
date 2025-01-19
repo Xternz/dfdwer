@@ -47,7 +47,7 @@ This repository contains three main folders:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Sanket-Ugale/Intel-Hackathon-DevSquad.git
+   git clone https://github.com/Xternz/dfdwer.git
    cd mindcare
    ```
 
